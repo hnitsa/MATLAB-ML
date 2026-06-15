@@ -124,6 +124,8 @@ pred_rad    = (pred_scaled + 1) / 2 * (dir_max - dir_min) + dir_min;
 | File | Description |
 |---|---|
 | `ML_VFH_Navigation.m` | Full training + evaluation script |
-| `combined_dataset.mat` | Raw dataset (not included in repo) |
+| `combined_dataset.mat` | Raw dataset |
 | `trained_model_vfh.mat` | Saved model weights and normalisation params |
 | `pathFollowingWithObstacleAvoidanceExample2.slxc` | Simulink model used for data collection |
+| `Training Maps.zip` | Training Maps used for data collection |
+| `Training Data.zip` | Simout data collected for training|
