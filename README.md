@@ -129,3 +129,5 @@ pred_rad    = (pred_scaled + 1) / 2 * (dir_max - dir_min) + dir_min;
 | `pathFollowingWithObstacleAvoidanceExample2.slxc` | Simulink model used for data collection |
 | `Training Maps.zip` | Training Maps used for data collection |
 | `Training Data.zip` | Simout data collected for training|
+| `dataset_prep1.m` | Matlab script used to combine data into the dataset |
+
